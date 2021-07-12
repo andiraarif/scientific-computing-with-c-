@@ -29,6 +29,7 @@ int main(int argc, char* argv[])
     // array5 = {1, 2, 3}; will give an error since curly bracket can only be used in accordance with the initialization
 
     std::cout << array4[1][0] << std::endl;
+    std::cout << array4[1][1] << std::endl;
 
     return 0;
 }
