@@ -16,7 +16,7 @@ int main(int argc, char* argv[])
     int row = 3, column = 4;
     row = column = 5; // not recommended although it's true
 
-    std::cout<< "Row = " << row << " Column = " << column << std::endl;
+    std::cout << "Row = " << row << " Column = " << column << std::endl;
 
     const double density = 1.225;
     double tolerance = 1e-12;

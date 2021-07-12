@@ -7,7 +7,7 @@ int main(int argc, char* argv[])
     the program does */
 
     // Print "Hello World" to the screen
-    std::cout<< "Hello World\n";
+    std::cout << "Hello World\n";
 
     return 0;
 }
