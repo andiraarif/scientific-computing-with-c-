@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(int argc, char* argv[])
+int main(int argc, char* argv[]                                                                                         )
 {
     int nDays = 5;
     int nCars[nDays] = {34, 58, 57, 32, 43};
